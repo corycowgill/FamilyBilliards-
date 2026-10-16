@@ -12,3 +12,7 @@ Family face-off uses friendly house rules: every object ball, including the 8, i
 Features fixed-step physics, ball collisions, cushion rebounds, six pockets, aim assistance, optional synthesized sounds, responsive layout, and two local players.
 
 This intentionally uses family rules rather than regulation 8-ball.
+
+## Game interface
+
+The viewport fits the table, player HUD, and hold-to-charge control deck. Menu pauses the game and contains mode, aim guide, sounds, and new rack. The question mark opens house rules. Fullscreen is available in supported browsers. Completed racks show a match result with a rematch button.
